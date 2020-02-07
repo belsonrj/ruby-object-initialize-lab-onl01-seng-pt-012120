@@ -18,5 +18,5 @@ class Dog
 end 
 
 
-Fido = Dog.new("Fido, "Pug")
+Fido = Dog.new("Fido", "Pug")
 
